@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Демонстрация фрагментов массива." tests="17" skipped="0" failures="0" errors="0" timestamp="2021-10-31T20:39:11" hostname="teacher" time="0.241">
+  <properties/>
+  <testcase name="[1] 1" classname="SplitTest" time="0.081"/>
+  <testcase name="[2] 2" classname="SplitTest" time="0.004"/>
+  <testcase name="[3] 3" classname="SplitTest" time="0.003"/>
+  <testcase name="[4] 4" classname="SplitTest" time="0.002"/>
+  <testcase name="[5] 5" classname="SplitTest" time="0.005"/>
+  <testcase name="[6] 6" classname="SplitTest" time="0.003"/>
+  <testcase name="[7] 7" classname="SplitTest" time="0.001"/>
+  <testcase name="[8] 8" classname="SplitTest" time="0.002"/>
+  <testcase name="[9] 9" classname="SplitTest" time="0.003"/>
+  <testcase name="[1] 1" classname="SplitTest" time="0.002"/>
+  <testcase name="[2] 2" classname="SplitTest" time="0.003"/>
+  <testcase name="[3] 3" classname="SplitTest" time="0.0"/>
+  <testcase name="[4] 4" classname="SplitTest" time="0.002"/>
+  <testcase name="[5] 5" classname="SplitTest" time="0.001"/>
+  <testcase name="[6] 6" classname="SplitTest" time="0.028"/>
+  <testcase name="[7] 7" classname="SplitTest" time="0.0"/>
+  <testcase name="[8] 8" classname="SplitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Проверка метода нахождения &quot;середины&quot;." tests="22" skipped="0" failures="0" errors="0" timestamp="2021-10-31T20:39:10" hostname="teacher" time="0.3">
+  <properties/>
+  <testcase name="Исключения:" classname="BoundsTest" time="0.045"/>
+  <testcase name="Частные случаи:" classname="BoundsTest" time="0.009"/>
+  <testcase name="repetition 1 of 10" classname="BoundsTest" time="0.011"/>
+  <testcase name="repetition 2 of 10" classname="BoundsTest" time="0.002"/>
+  <testcase name="repetition 3 of 10" classname="BoundsTest" time="0.001"/>
+  <testcase name="repetition 4 of 10" classname="BoundsTest" time="0.005"/>
+  <testcase name="repetition 5 of 10" classname="BoundsTest" time="0.006"/>
+  <testcase name="repetition 6 of 10" classname="BoundsTest" time="0.002"/>
+  <testcase name="repetition 7 of 10" classname="BoundsTest" time="0.008"/>
+  <testcase name="repetition 8 of 10" classname="BoundsTest" time="0.005"/>
+  <testcase name="repetition 9 of 10" classname="BoundsTest" time="0.004"/>
+  <testcase name="repetition 10 of 10" classname="BoundsTest" time="0.006"/>
+  <testcase name="repetition 1 of 10" classname="BoundsTest" time="0.006"/>
+  <testcase name="repetition 2 of 10" classname="BoundsTest" time="0.003"/>
+  <testcase name="repetition 3 of 10" classname="BoundsTest" time="0.002"/>
+  <testcase name="repetition 4 of 10" classname="BoundsTest" time="0.001"/>
+  <testcase name="repetition 5 of 10" classname="BoundsTest" time="0.006"/>
+  <testcase name="repetition 6 of 10" classname="BoundsTest" time="0.003"/>
+  <testcase name="repetition 7 of 10" classname="BoundsTest" time="0.002"/>
+  <testcase name="repetition 8 of 10" classname="BoundsTest" time="0.019"/>
+  <testcase name="repetition 9 of 10" classname="BoundsTest" time="0.003"/>
+  <testcase name="repetition 10 of 10" classname="BoundsTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
