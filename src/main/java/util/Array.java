@@ -1,5 +1,10 @@
+/**
+ * Полезные методы для сортировки массива.
+ *
+ * @author Михаил Беляков
+ * @version 1.0
+ */
 package util;
-
 import static util.Defaults.setMaxBound;
 
 public class Array {

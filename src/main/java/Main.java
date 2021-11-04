@@ -4,8 +4,8 @@ import static util.Defaults.*;
 
 public class Main {
 
-    private static final boolean DEBUG = false;
-    private static final boolean VERBOSE = false;
+    private static final boolean DEBUG = false; // Включается на время тестирования для отключения рекурсии.
+    private static final boolean VERBOSE = false; // Влияет на вывод промежуточных состояний массива.
 
     public static void main(String[] args) {
         try {
